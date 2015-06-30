@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: https://github.com/julian3rd/julian3rd.github.io/blob/master/project-list.md
 ---
 
 # Published papers
