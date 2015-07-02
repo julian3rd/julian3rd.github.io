@@ -14,4 +14,4 @@ Courses taught at the University of Maryland, College Park
 - BSCI 440: Mammalian Physiology (Co-Lecturer, Teaching Assistant)  
 - BSCI 454: Neurobiology Laboratory (Teaching Assistant)  
 - BSCI 222: Genetics (Teaching Assistant)  
-- Tutor/Mentor: Academic Support and Career Development Unit, Athletic Department
+- Tutor/Mentor: Academic Support and Career Development Unit, Athletic Department  
