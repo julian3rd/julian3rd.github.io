@@ -16,3 +16,8 @@ Retroactive simulations/analyses for the 2012 US Presidential election. Develope
 Parallel implementation of [Google Python course](https://developers.google.com/edu/python/?csw=1) implemented in base Julia. Devised as way to learn general Julia programming.  
 
 [GitHub repo](https://github.com/julian3rd/google-python-julia)
+
+## Consulting
+Penn Biotech Group, Fall 2014.  
+
+Management consulting project that involved developing a market entry strategy for a start-up. Performed primary and secondary research on market size, potential beneficiaries and under-/un-explored potential users of product. Conducted interviews with medical professionals, determined pricing strategies and financial modeling of market structure.
