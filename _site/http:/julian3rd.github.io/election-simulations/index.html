@@ -1,0 +1,97 @@
+  <head>
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#header {
+    background-color:black;
+    color:white;
+}
+
+#nav {
+    font-size: 21px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    -webkit-font-smoothing: antialiased;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color:#E69F00;
+    background-color:black;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-font-smoothing: antialiased;
+}
+
+#nav a:hover, a:active {
+    color:black;
+    background-color: white;
+}
+
+#section {
+    text-align:left;
+    padding:10px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    background-color:#F6F6F6;
+}
+
+</style>
+</head>
+
+<body>
+  <div id="header">
+
+  <div id="nav">
+   <ul>
+    <span class="title"><li><a href="/index.html">Home</a></li></span>
+  <span class="title"><li><a href="publication-home.html">Publications</a></li></span>
+  <span class="title"><li><a href="/cv/Jenkins-CV-2015.pdf">CV</a></li></span>
+  <span class="title"><li><a href="project-list.html">Projects</a></li></span>
+  <span class="title"><li><a href="https://github.com/julian3rd">GitHub</a></li></span>
+  <span class="title"><li><a href="https://www.linkedin.com/in/julianjenkins3rd">LinkedIn</a></li></span>
+  </ul>
+  </div>
+  </div>
+  
+  <div id="section">
+    <h1>Overview</h1>
+
+<p>This repo contains files for an electiom simulation data science project I used to teach myself Python and simulating outcomes in general. I received most of the information from the <a href="http://nbviewer.ipython.org/github/cs109/content/blob/master/HW2.ipynb">&#39;Desperately Seeking Silver&#39;</a> homework and tutorial. They are retroactive simulations/analyses for the 2012 US Presidential election, but the methods could be applied to future elections as well.  </p>
+
+<h2>Basic simulations</h2>
+
+<p>The baic simulations  use the percentage of money donated to the final two candidates and demographic information to calculate the probability of a candidate winning a particular state. Use of the R package <code>BreakoutDetection</code> was also used to determine when there were especially large spikes in net cash flow, expenditures, or donations. While the initial simulations were implemented with  combination of Python and R, a parallel implementation was also performed in Julia.  </p>
+
+<h2>Ongoing simulations</h2>
+
+<p>In order to create more sophisticated models, ongoing projects will use a combination of polling data, contribution information and weighting importance by date. These will be updated periodically (meaning, as I get to it).</p>
+        
+  </div>
+</body>
+</html>
+  </head>
+  
+  <section>
+    
+  </section>

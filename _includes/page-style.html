@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#header {
+    background-color:black;
+    color:white;
+}
+
+#nav {
+    font-size: 21px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    -webkit-font-smoothing: antialiased;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color:#E69F00;
+    background-color:black;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-font-smoothing: antialiased;
+}
+
+#nav a:hover, a:active {
+    color:black;
+    background-color: white;
+}
+
+#section {
+    text-align:left;
+    padding:10px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    background-color:#F6F6F6;
+}
+
+</style>
+</head>
+
+<body>
+  <div id="header">
+
+  <div id="nav">
+   <ul>
+    <span class="title"><li><a href="/index.html">Home</a></li></span>
+  <span class="title"><li><a href="publication-home.html">Publications</a></li></span>
+  <span class="title"><li><a href="/cv/Jenkins-CV-2015.pdf">CV</a></li></span>
+  <span class="title"><li><a href="project-list.html">Projects</a></li></span>
+  <span class="title"><li><a href="https://github.com/julian3rd">GitHub</a></li></span>
+  <span class="title"><li><a href="https://www.linkedin.com/in/julianjenkins3rd">LinkedIn</a></li></span>
+  </ul>
+  </div>
+  </div>
+  
+  <div id="section">
+    {{ content }}        
+  </div>
+</body>
+</html>
