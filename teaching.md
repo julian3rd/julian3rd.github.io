@@ -6,7 +6,7 @@ title: Teaching
 ## Data Science
 Mini-course on reproducible research (IRCS, University of Pennsylvania).  Introdcution to to using Python, IPython, R, RStuido, Git/GitHub to share, reproduce and organize research. Also serves as an introduction to data science and resources for potentially transferring from academia to industry.  
 
-[Course repository](https://github.com/IRCS-analysis-mini-courses/reproducible-research)
+[Course repository on GitHub](https://github.com/IRCS-analysis-mini-courses/reproducible-research)
 
 ## University teaching
 Courses taught at the University of Maryland, College Park  
