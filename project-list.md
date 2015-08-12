@@ -7,7 +7,7 @@ title: Data science and programming projects
 
 ### Clustering of vowel production data
 
-Using data from [Hillenbrand *et al.* 1995](http://homepages.wmich.edu/~hillenbr/voweldata.html) on the acoustic measurements on American English vowels, unsupervised learning (k-means, Gaussian mixture models) algorithms are used to create clusters. The formants and formant ratios are reduced to two principal components after normaization prior to model implementation. Cluster memebership (but not confidence intervals) are visualized using R.  
+Using data from [Hillenbrand *et al.* 1995](http://homepages.wmich.edu/~hillenbr/voweldata.html) on the acoustic measurements on American English vowels, unsupervised learning (k-means, Gaussian mixture models) algorithms are used to create clusters. The formants and formant ratios are reduced to two principal components after normalization prior to model implementation. Cluster membership (but not confidence intervals) are visualized using R.  
 
 [GitHub repo](https://github.com/julian3rd/hillenbrand-vowel-clustering)  
 [Project page](http://julian3rd.github.io/hillenbrand-vowel-clustering)
