@@ -5,6 +5,13 @@ title: Data science and programming projects
 
 ## Data science
 
+### Clustering of vowel production data
+
+Using data from [Hillenbrand *et al.* 1995](http://homepages.wmich.edu/~hillenbr/voweldata.html) on the acoustic measurements on American English vowels, unsupervised learning (k-means, Gaussian mixture models) algorithms are used to create clusters. The formants and formant ratios are reduced to two principal components after normaization prior to model implementation. Cluster memebership (but not confidence intervals) are visualized using R.  
+
+[GitHub repo](https://github.com/julian3rd/hillenbrand-vowel-clustering)  
+[Project page](http://julian3rd.github.io/hillenbrand-vowel-clustering)
+
 ### Election simulations in Python and Julia
 Retroactive simulations/analyses for the 2012 US Presidential election. Developed primarily from the ['Desperately Seeking Silver'](http://nbviewer.ipython.org/github/cs109/content/blob/master/HW2.ipynb) homework and tutorial. Python (`SciPy`, `NumPy`, `pandas`) and Julia (`DataFrames`, `GLM`) used to create simulate outcomes. Working on extending to other methods and elections.  
 
