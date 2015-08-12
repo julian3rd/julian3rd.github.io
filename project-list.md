@@ -3,7 +3,13 @@ layout: page
 title: Data science and programming projects
 ---
 
-## Data science
+## Data science and statistics
+
+### Comparisons of statistical models in R and Julia
+Analysis of three different experimental datasets (two published) in both R and Julia. The goals are (1) to demonstrate the reasoning and analysis of different types of experimental data; (2) to compare the results of Linear Mixed Effects models in R and Julia; (3) a tutorial on how to specify Linear Mixed Effects Models in Julia using the `MixedModels` pakcage.
+
+[GitHub repo](https://github.com/julian3rd/model-comparison-r-julia)  
+[Project page](http://julian3rd.github.io/model-comparison-r-julia/)
 
 ### Clustering of vowel production data
 
