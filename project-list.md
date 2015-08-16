@@ -28,7 +28,8 @@ Retroactive simulations/analyses for the 2012 US Presidential election. Develope
 ### Google Python course in Julia
 Parallel implementation of [Google Python course](https://developers.google.com/edu/python/?csw=1) implemented in base Julia. Devised as way to learn general Julia programming.  
 
-[GitHub repo](https://github.com/julian3rd/google-python-julia)
+[GitHub repo](https://github.com/julian3rd/google-python-julia)  
+[Project page](http://julian3rd.github.io/google-python-julia/)
 
 ## Consulting
 Penn Biotech Group, Fall 2014.  
