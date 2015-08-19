@@ -25,8 +25,8 @@ Retroactive simulations/analyses for the 2012 US Presidential election. Develope
 [Project page](http://julian3rd.github.io/election-simulations/)
 
 ## Programming
-### Google Python class in Julia
-Parallel implementation of [Google Python class](https://developers.google.com/edu/python/?csw=1) implemented in base Julia. Devised as way to learn general Julia programming.  
+### Google Python course in Julia
+Parallel implementation of [Google Python course](https://developers.google.com/edu/python/?csw=1) implemented in base Julia. Devised as way to learn general Julia programming.  
 
 [GitHub repo](https://github.com/julian3rd/google-python-julia)  
 [Project page](http://julian3rd.github.io/google-python-julia/)
