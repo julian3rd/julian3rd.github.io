@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data science, statistics, and programming projects"
+title: "Projects"
 ---
 
 ## Data science and statistics
