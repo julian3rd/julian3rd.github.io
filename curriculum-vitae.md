@@ -30,6 +30,6 @@ title: "Curriculum  vitae"
 
 ### University of Maryland, College Park.  Ph.D., Biology.  
 Advisor: David Poeppel.  
-Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [PDF](http://drum.lib.umd.edu/handle/1903/12084).
+Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [PDF](http://drum.lib.umd.edu/handle/1903/12084).  
 
 ### Rutgers University, B.A.  Biology.  Minor: Mathematics  
