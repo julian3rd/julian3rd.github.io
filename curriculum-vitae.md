@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Curriculum  vitae"
+title: "Curriculum  Vitae"
 ---
 
-# Curriculum vitae
-[Full academic CV (PDF)](/cv/Jenkins-CV-2015.pdf)
+# Curriculum Vitae
+[Full Curriculum Vitae (PDF)](/cv/Jenkins-CV-2015.pdf)
 
 ## Experience
 ### Postdoctoral Fellow, The Children’s Hospital of Philadelphia  
@@ -30,6 +30,6 @@ title: "Curriculum  vitae"
 
 ### University of Maryland, College Park.  Ph.D., Biology.  
 Advisor: David Poeppel.  
-Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [PDF](http://drum.lib.umd.edu/handle/1903/12084).  
+Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [(PDF)](http://drum.lib.umd.edu/handle/1903/12084).  
 
 ### Rutgers University, B.A.  Biology.  Minor: Mathematics  
