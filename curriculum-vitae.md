@@ -7,7 +7,7 @@ title: "Curriculum  Vitae"
 [Full Curriculum Vitae (PDF)](/cv/Jenkins-CV-2015.pdf)
 
 ## Experience
-### Postdoctoral Fellow, The Children’s Hospital of Philadelphia  
+### Postdoctoral Fellow, The Children’s Hospital of Philadelphia.  
 - Implementation and interpretation of advanced statistical analyses of clinical data.  
 - Analyzed experimental data, demographics, and responses for clinical and control populations.  
 - Preparation of interim and annual data summaries, progress, and status reports for funding agencies and other researchers.  
@@ -31,4 +31,4 @@ title: "Curriculum  Vitae"
 Advisor: David Poeppel.  
 Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [(PDF)](http://drum.lib.umd.edu/handle/1903/12084).  
 
-### Rutgers University, B.A.  Biology.  Minor: Mathematics  
+### Rutgers University, B.A.  Biology.  Minor: Mathematics.  
