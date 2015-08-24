@@ -27,7 +27,6 @@ title: "Curriculum  Vitae"
 - Published several peer-reviewed manuscripts in leading journals.  
 
 ## Education
-
 ### University of Maryland, College Park.  Ph.D., Biology.  
 Advisor: David Poeppel.  
 Title: MEG, Psychophysical and Computational Studies of Loudness, Timbre and Audiovisual Integration [(PDF)](http://drum.lib.umd.edu/handle/1903/12084).  
