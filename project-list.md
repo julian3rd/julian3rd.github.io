@@ -13,7 +13,7 @@ Analysis of three different experimental datasets (two published) in both R and 
 
 ## Clustering and identification of vowel production data
 
-Using data from [Hillenbrand *et al.* 1995](http://homepages.wmich.edu/~hillenbr/voweldata.html) on the acoustic measurements on American English vowels, supervised (Support Vector Machine) and unsupervised learning (k-means, Gaussian mixture models) algorithms are used to classify and create clusters. For supervised learning, the formants are used as predictors. For unsupervised learning, the formants and formant ratios are reduced to two principal components after normalization prior to model implementation. Cluster membership (but not confidence intervals) are visualized using R.  
+Using data from [Hillenbrand *et al.* 1995](http://homepages.wmich.edu/~hillenbr/voweldata.html) on the acoustic measurements on American English vowels, supervised (Support Vector Machine) and unsupervised learning (k-means, Gaussian mixture models) algorithms are used to classify and create clusters, respectively. For supervised learning, the formants are used as predictors. For unsupervised learning, the formants and formant ratios are reduced to two principal components after normalization prior to model implementation. Cluster membership (but not confidence intervals) are visualized using R.  
 
 [GitHub repo](https://github.com/julian3rd/hillenbrand-vowel-clustering)  
 [Project page](http://julian3rd.github.io/hillenbrand-vowel-clustering)
