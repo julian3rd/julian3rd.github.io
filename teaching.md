@@ -10,7 +10,7 @@ Mini-course on reproducible research (IRCS, University of Pennsylvania).  Introd
 
 [Course repository on GitHub](https://github.com/IRCS-analysis-mini-courses/reproducible-research)  
 
-## Springboard.
+## Springboard
 Mentor, Foundations of Data Science, Springboard.  
 Mentor for [Springboard's](https://www.springboard.com/workshops/data-science/) workshop on learning data science, data and statistical analysis and visualization using R.
 
