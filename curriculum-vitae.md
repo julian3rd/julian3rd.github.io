@@ -8,7 +8,7 @@ title: "Curriculum  Vitae"
 
 ## Experience  
 
-### Quantitative Analyst, Product Quality Operations, Google.  
+### Quantitative Analyst,Trust and Safety, Google.  
 
 ### Postdoctoral Fellow, The Children’s Hospital of Philadelphia.  
 - Implementation and interpretation of advanced statistical analyses of clinical data.  
