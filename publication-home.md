@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Published papers
 
-**Julian Jenkins III**, Vivian Chow, Lisa Blaskey, Emily Kuschner, J. Christopher Edgar, Pratik Mukherjee, Randall Buckner, Srikantan Nagarajan, Wendy K. Chung, John Spiro, Elliott Sherr, Jeffrey I. Berman, Timothy P.L. Roberts.  **Auditory evoked M100 response latency is delayed in children with 16p11.2 deletion but not 16p11.2 duplication.**  
+**Julian Jenkins III**, Vivian Chow, Lisa Blaskey, Emily Kuschner, J. Christopher Edgar, Pratik Mukherjee, Randall Buckner, Srikantan Nagarajan, Wendy K. Chung, John Spiro, Elliott Sherr, Jeffrey I. Berman, Timothy P.L. Roberts.  **Auditory evoked M100 response latency is delayed in children with 16p11.2 deletion but not 16p11.2 duplication.(2016) 26 (5): 1957-1964 doi:10.1093/cercor/bhv008**  
 
 [GitHub page](http://julian3rd.github.io/chromosomal-mutations-auditory-latency/)  
 [PDF](papers/Cereb.%20Cortex-2015-Jenkins.pdf)  
