@@ -4,7 +4,7 @@ title: "Curriculum  Vitae"
 ---
 
 # Curriculum Vitae
-[Full Curriculum Vitae (PDF)](cv/Jenkins_CV_2021.pdf)
+[Full Curriculum Vitae (PDF)](Jenkins_CV_2021.pdf)
 
 ## Experience  
 
