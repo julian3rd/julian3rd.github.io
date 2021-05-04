@@ -4,11 +4,11 @@ title: "Curriculum  Vitae"
 ---
 
 # Curriculum Vitae
-[Full Curriculum Vitae (PDF)](cv/Jenkins_CV_2021.pdf)
+[Full Curriculum Vitae (PDF)](julian3rd.github.io/cv/Jenkins_CV_2021.pdf)
 
 ## Experience  
 
-### Quantitative Analyst, Trust and Safety, Google.
+### Senior Strategist, Trust and Safety, Google.
 - Statistical analysis of ad network traffic signals to determine fraud and appropriate actions.
 - Developed and deployed statistical models for fraud estimation, risk modeling, and actioning rules.
 - Applied Bayesian and frequentist modeling using Python and R (TensorFlow Probability, Stan, rstanarm).
