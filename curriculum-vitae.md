@@ -4,7 +4,7 @@ title: "Curriculum  Vitae"
 ---
 
 # Curriculum Vitae
-[Full Curriculum Vitae (PDF)](julian3rd.github.io/cv/Jenkins_CV_2021.pdf)
+[Full Curriculum Vitae (PDF)](<a href="cv/Jenkins_CV_2021.pdf" type="application/pdf"></a>)
 
 ## Experience  
 
