@@ -8,7 +8,10 @@ title: "Curriculum  Vitae"
 
 ## Experience  
 
-### Quantitative Analyst, Trust and Safety, Google.  
+### Quantitative Analyst, Trust and Safety, Google.
+- Statistical analysis of ad network traffic signals to determine fraud and appropriate actions.
+- Developed and deployed statistical models for fraud estimation, risk modeling, and actioning rules.
+- Applied Bayesian and frequentist modeling (TensorFlow Probability, Stan).
 
 ### Postdoctoral Fellow, The Children’s Hospital of Philadelphia.  
 - Implementation and interpretation of advanced statistical analyses of clinical data.  
