@@ -11,6 +11,7 @@ title: "Curriculum  Vitae"
 ### Senior Strategist, Trust and Safety, Google.
 - Statistical analysis of ad network traffic signals to determine fraud and appropriate actions.
 - Developed and deployed statistical models for fraud estimation, risk modeling, and actioning rules.
+- Development of statistical models for annotator agreement and item prediction.
 - Applied Bayesian and frequentist modeling using Python and R (TensorFlow Probability, Stan, rstanarm).
 
 ### Postdoctoral Fellow, The Children’s Hospital of Philadelphia.  
