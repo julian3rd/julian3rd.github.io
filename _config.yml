@@ -1,4 +1,4 @@
 name: Julian Jenkins III
-highlighter: pygments
+highlighter: rouge
 baseurl: /julian3rd.github.io
 exclude: ['404-style.html', '404.md', 'microwave-background.png']
