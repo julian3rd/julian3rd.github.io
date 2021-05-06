@@ -1,5 +1,4 @@
 name: Julian Jenkins III
-markdown: redcarpet
 highlighter: pygments
 baseurl: /julian3rd.github.io
 exclude: ['404-style.html', '404.md', 'microwave-background.png']
